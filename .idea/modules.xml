@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/02_Liscov-Substitution-Principle/02_Liscov-Substitution-Principle.iml" filepath="$PROJECT_DIR$/02_Liscov-Substitution-Principle/02_Liscov-Substitution-Principle.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_Interface-Segregation-Principle/03_Interface-Segregation-Principle.iml" filepath="$PROJECT_DIR$/03_Interface-Segregation-Principle/03_Interface-Segregation-Principle.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_Dependancy-Inversion-Principle/04_Dependancy-Inversion-Principle.iml" filepath="$PROJECT_DIR$/04_Dependancy-Inversion-Principle/04_Dependancy-Inversion-Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Observer-Design-Pattern/05_Observer-Design-Pattern.iml" filepath="$PROJECT_DIR$/05_Observer-Design-Pattern/05_Observer-Design-Pattern.iml" />
     </modules>
   </component>
 </project>
