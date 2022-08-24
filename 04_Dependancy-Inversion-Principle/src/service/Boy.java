@@ -6,7 +6,8 @@ package service;
  **/
 public class Boy {
     public void chatWithGirl(){
-        Girl girl = new Girl();
+        //Girl girl = new Girl(); // Violate DI Principle
+        SuperGirl girl= new Girl(); // Now both depend on abstraction
         girl.chat();
     }
     /*The classes which are performing tasks with the help of other classes are known as High Level Classes
