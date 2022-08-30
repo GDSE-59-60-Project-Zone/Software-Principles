@@ -15,6 +15,7 @@ public class FixedAccount extends Account {
     @Override
     public void withdraw(double amount) {
         System.out.println(amount + " Withdrawn from your Fixed Account.!");
+        throw new UnsupportedOperationException("Cannot Withdrawn money from fixed accounts");
     }
     /* Ok. Eventually, here we have a trouble. */
     /* Fixed accounts cannot have a withdrawn option */
