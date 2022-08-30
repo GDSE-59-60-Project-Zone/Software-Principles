@@ -1,6 +1,5 @@
 package service.types;
 
-import service.Payment;
 import service.cutom.Loan;
 
 import java.util.List;
@@ -16,8 +15,8 @@ public class LoanPayment implements Loan {
 //    }
 
     /* Now, because the payment interface has changed and more methods were added, all the implementing
-    * classes now have to implement the new methods, The problem is, implementing them is unwanted and
-    * could lead to many side effects*/
+     * classes now have to implement the new methods, The problem is, implementing them is unwanted and
+     * could lead to many side effects*/
 
     @Override
     public Object status() {
