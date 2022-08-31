@@ -32,5 +32,8 @@ public class Main {
         //Now see what will happen after the subject states changed
         kamali.notifyAllObservers("Kamali Uploaded a New Photo");
         kamali.notifyAllObservers("Kamali is dead");
+
+        //Code Updated
+
     }
 }
